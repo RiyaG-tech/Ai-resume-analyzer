@@ -1,0 +1,16 @@
+Job Title: Senior Full Stack Developer (React / Node.js)
+Company: Elevate Software Systems
+Location: Remote / New York, NY
+
+Role Overview:
+We are seeking a talented Senior Full Stack Developer to build next-generation web applications. You will work across modern frontend frameworks (React, Next.js, TypeScript) and robust backend architectures (Node.js, Express, PostgreSQL).
+
+Key Requirements:
+- 4+ years of professional full stack software development experience.
+- Strong proficiency in React, TypeScript, modern CSS (Tailwind CSS), and HTML5.
+- Solid hands-on experience building backend services and APIs using Node.js and Express or FastAPI.
+- Proficient in SQL databases (PostgreSQL or MySQL) and Redis caching.
+- Experience with Docker containerization and CI/CD pipelines (GitHub Actions).
+- Experience with testing frameworks (Jest, Cypress).
+- Bachelor's degree in Computer Science or equivalent practical experience.
+- Strong communication, team collaboration, and problem-solving skills.

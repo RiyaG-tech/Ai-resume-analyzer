@@ -1,0 +1,80 @@
+{
+  "Programming Languages": [
+    "python", "java", "c++", "c", "c#", "javascript", "typescript", "ruby", "php", "swift",
+    "kotlin", "go", "golang", "rust", "scala", "r", "matlab", "perl", "dart", "shell",
+    "bash", "powershell", "lua", "haskell", "clojure", "elixir", "cobol", "fortran", "vba"
+  ],
+  "Web & Frontend Technologies": [
+    "html", "html5", "css", "css3", "javascript", "typescript", "react", "react.js", "reactjs",
+    "angular", "angularjs", "vue", "vue.js", "vuejs", "next.js", "nextjs", "nuxt.js", "svelte",
+    "redux", "tailwind css", "tailwind", "bootstrap", "sass", "scss", "less", "jquery", "webpack",
+    "vite", "material ui", "chakra ui", "graphql", "rest api", "restful api", "web sockets", "ajax",
+    "responsive design", "storybook"
+  ],
+  "Backend & Frameworks": [
+    "django", "flask", "fastapi", "node.js", "nodejs", "express", "express.js", "spring",
+    "spring boot", "ruby on rails", "asp.net", "asp.net core", ".net core", "laravel", "symfony",
+    "nest.js", "nestjs", "gin", "fiber", "microservices", "restful web services", "grpc",
+    "celery", "gunicorn", "uvicorn", "tornado"
+  ],
+  "Data Science & Machine Learning": [
+    "machine learning", "deep learning", "nlp", "natural language processing", "computer vision",
+    "data science", "pandas", "numpy", "scipy", "scikit-learn", "sklearn", "tensorflow", "keras",
+    "pytorch", "xgboost", "lightgbm", "catboost", "statsmodels", "opencv", "nltk", "spacy",
+    "hugging face", "transformers", "bert", "gpt", "llm", "large language models", "langchain",
+    "llamaindex", "rag", "retrieval augmented generation", "prompt engineering", "genai", "generative ai",
+    "reinforcement learning", "time series analysis", "predictive modeling", "feature engineering",
+    "hyperparameter tuning", "mlflow", "dvc", "wandb", "optuna"
+  ],
+  "Data Engineering & Big Data": [
+    "sql", "mysql", "postgresql", "oracle", "sqlite", "sql server", "ms sql", "mongodb",
+    "cassandra", "redis", "elasticsearch", "neo4j", "dynamodb", "snowflake", "bigquery",
+    "redshift", "apache spark", "spark", "pyspark", "hadoop", "apache kafka", "kafka",
+    "apache flink", "airflow", "apache airflow", "dbt", "etl", "elt", "data warehousing",
+    "data pipeline", "data lake", "delta lake", "presto", "trino"
+  ],
+  "Cloud & DevOps": [
+    "aws", "amazon web services", "azure", "microsoft azure", "gcp", "google cloud platform",
+    "docker", "kubernetes", "k8s", "terraform", "ansible", "jenkins", "gitlab ci", "github actions",
+    "ci/cd", "continuous integration", "continuous deployment", "linux", "unix", "helm",
+    "prometheus", "grafana", "nginx", "apache", "serverless", "aws lambda", "cloudformation",
+    "ec2", "s3", "iam", "cloudwatch", "devops", "site reliability engineering", "sre"
+  ],
+  "Cybersecurity & Networking": [
+    "cybersecurity", "information security", "network security", "penetration testing",
+    "ethical hacking", "vulnerability assessment", "siem", "soc", "firewall", "ids/ips",
+    "cryptography", "wireshark", "metasploit", "burp suite", "owasp", "identity and access management",
+    "zero trust", "soc2", "iso 27001", "incident response", "threat modeling", "cissp", "ceh",
+    "tcp/ip", "dns", "vpn", "ssl/tls"
+  ],
+  "Mobile Development": [
+    "android", "android development", "ios", "ios development", "react native", "flutter",
+    "xamarin", "ionic", "swiftui", "jetpack compose", "mobile app development", "xcode", "android studio"
+  ],
+  "Testing & Quality Assurance": [
+    "unit testing", "integration testing", "e2e testing", "pytest", "unittest", "selenium",
+    "cypress", "playwright", "junit", "jest", "mocha", "chai", "postman", "jmeter",
+    "test automation", "qa", "quality assurance", "tdd", "bdd", "bug tracking"
+  ],
+  "Business Intelligence & Analytics": [
+    "power bi", "powerbi", "tableau", "looker", "excel", "advanced excel", "vlookup",
+    "pivot tables", "dax", "power query", "google analytics", "data visualization",
+    "business intelligence", "bi", "kpi tracking", "a/b testing", "statistical analysis", "r programming"
+  ],
+  "UI/UX & Design": [
+    "ui/ux", "ui design", "ux design", "figma", "adobe xd", "sketch", "invision", "wireframing",
+    "prototyping", "user research", "usability testing", "design systems", "interaction design",
+    "information architecture", "canva", "photoshop", "illustrator"
+  ],
+  "Methodologies & Project Management": [
+    "agile", "scrum", "kanban", "waterfall", "jira", "confluence", "trello", "asana", "notion",
+    "git", "github", "gitlab", "bitbucket", "version control", "project management", "sdlc",
+    "software development life cycle", "ci/cd pipelines", "peer reviews", "code reviews"
+  ],
+  "Soft Skills & Management": [
+    "leadership", "communication", "teamwork", "collaboration", "problem solving", "critical thinking",
+    "time management", "adaptability", "analytical thinking", "negotiation", "conflict resolution",
+    "presentation skills", "stakeholder management", "mentoring", "coaching", "client handling",
+    "decision making", "interpersonal skills", "cross-functional coordination"
+  ]
+}

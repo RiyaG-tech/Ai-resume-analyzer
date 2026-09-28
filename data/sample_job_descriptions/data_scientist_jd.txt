@@ -1,0 +1,27 @@
+Job Title: Senior Data Scientist / ML Engineer
+Company: TechNova Innovations
+Location: San Francisco, CA / Remote
+
+About the Role:
+We are looking for an experienced Senior Data Scientist to join our Core AI team. You will lead the development of state-of-the-art machine learning models, predictive algorithms, and NLP systems that power our customer intelligence platform.
+
+Key Responsibilities:
+- Design, build, and evaluate machine learning and deep learning models for classification, regression, and ranking.
+- Develop and optimize scalable NLP pipelines using Transformers, PyTorch, and Hugging Face.
+- Work closely with data engineers to build distributed data pipelines using Python, SQL, and Apache Spark.
+- Deploy, monitor, and maintain production ML microservices using Docker, FastAPI, and AWS.
+- Collaborate with product management and business stakeholders to translate strategic business objectives into quantitative ML metrics.
+
+Required Qualifications:
+- Master's or Bachelor's degree in Computer Science, Data Science, Statistics, or related technical field.
+- 3+ years of professional experience in applied Machine Learning and Data Science.
+- Expert proficiency in Python and standard ML libraries (Scikit-learn, Pandas, NumPy, SciPy).
+- Strong experience with Deep Learning frameworks (PyTorch or TensorFlow).
+- Hands-on experience with NLP, LLMs, and RAG architectures.
+- Solid understanding of SQL and relational / NoSQL databases (PostgreSQL, MongoDB).
+- Familiarity with containerization (Docker), version control (Git), and Cloud platforms (AWS or Azure).
+- Excellent communication and analytical problem-solving skills.
+
+Preferred Qualifications:
+- Experience with Kubernetes and MLOps tools (MLflow, Kubeflow).
+- Experience with PySpark or BigQuery for large-scale data processing.

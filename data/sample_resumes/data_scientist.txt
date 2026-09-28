@@ -1,0 +1,44 @@
+ALEX RIVERA
+Email: alex.rivera@example.com | Phone: +1 (555) 234-5678
+LinkedIn: linkedin.com/in/alexrivera-ds | GitHub: github.com/alexrivera-ml
+San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 4+ years of hands-on experience developing and deploying machine learning pipelines, predictive statistical models, and deep learning architectures. Proven track record of architecting scalable NLP and computer vision systems that improved enterprise decision accuracy by 32% and accelerated processing pipelines by 40%.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, R, C++
+- ML & Deep Learning: Scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, LightGBM, Pandas, NumPy, SciPy
+- NLP & LLMs: Natural Language Processing (NLP), Hugging Face, Transformers, BERT, Prompt Engineering, RAG
+- Big Data & Databases: PostgreSQL, MongoDB, Redis, Apache Spark, PySpark, Snowflake
+- Cloud & MLOps: AWS, Docker, MLflow, Git, CI/CD, FastAPI, Linux
+- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+
+WORK EXPERIENCE
+Senior Data Scientist | Apex Intelligence Solutions | San Francisco, CA
+2022 - Present
+- Architected end-to-end NLP classification and named-entity recognition pipelines using Hugging Face transformers and PyTorch, increasing document parsing accuracy from 78% to 94%.
+- Developed real-time customer churn prediction models using XGBoost and Scikit-learn, saving an estimated $1.2M in annual customer retention.
+- Spearheaded the deployment of 15+ machine learning models into microservices using Docker, FastAPI, and AWS SageMaker.
+- Mentored 4 junior data analysts and established automated ML testing and DVC data versioning standards.
+
+Machine Learning Engineer | DataCore Systems | Austin, TX
+2020 - 2022
+- Built distributed data processing pipelines using PySpark and PostgreSQL to clean and preprocess 10M+ daily records.
+- Implemented time-series forecasting models (ARIMA, Prophet, LSTM) reducing inventory stockout rates by 22%.
+- Optimized hyperparameter tuning workflows with Optuna, reducing model training cycles by 35%.
+
+EDUCATION
+Master of Science in Computer Science (Machine Learning Specialization)
+Stanford University | 2018 - 2020
+
+Bachelor of Technology in Information Technology
+University of California, Berkeley | 2014 - 2018
+
+KEY PROJECTS
+- Generative AI Document Assistant: Implemented a Retrieval-Augmented Generation (RAG) system with LangChain, ChromaDB, and OpenAI embeddings for searching internal enterprise knowledge bases.
+- Automated Fraud Detection Engine: Designed anomaly detection pipeline analyzing credit card transaction streams with 99.2% precision.
+
+CERTIFICATIONS
+- AWS Certified Machine Learning – Specialty
+- DeepLearning.AI Deep Learning Specialization
